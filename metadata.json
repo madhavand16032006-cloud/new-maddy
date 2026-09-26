@@ -1,0 +1,6 @@
+{
+  "name": "IT Spectrum 2026 - INTELLECTRA",
+  "description": "National Level Technical Symposium by B.Tech Information Technology Department, Adhiparasakthi Engineering College, Melmaruvathur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
